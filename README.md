@@ -5,4 +5,4 @@ This app enables the user to choose from a list of movies he/she would like to w
 I built it using HTML5, CSS and JavaScript.
 
             YOU WANT TO USE IT?
-If you want to utilize it, please do check it on [![Netlify Status](https://api.netlify.com/api/v1/badges/f1b37f4d-2162-4f44-8a39-b3943e8c8f6e/deploy-status)](https://app.netlify.com/sites/gracious-gates-8cb723/deploys)
+If you want to utilize it, please do check it on AWS cloud https://master.diwdbq885pgxq.amplifyapp.com/
