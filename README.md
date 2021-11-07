@@ -1,5 +1,5 @@
                 ABOUT THE APP
-This app enables the user to choose from a list of movies he/she would like to watch, gives him/her an overview of the seating spaces to choose and the sum total of his/her bookings. I built it using technologies like HTML5, CSS and JavaScript.
+This app enables the user to choose from a list of movies he/she would like to watch, gives him/her an overview of the seating spaces to choose and the sum total of his/her bookings.
 
               TECHNOLOGIES USED
 I built it using HTML5, CSS and JavaScript.
